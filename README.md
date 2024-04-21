@@ -6,7 +6,7 @@ Olá, Eu sou Ellen Roberta 😊
 
 ![Ellen Roberta GitHub stats](https://github-readme-stats.vercel.app/api?username=ellenrobertaa&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellenrobertaa&layout=compact)
+
 
 ## Tecnologias que uso no meu dia 
 
